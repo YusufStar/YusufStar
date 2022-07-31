@@ -6,8 +6,6 @@ Skills: HTML / CSS / JS / PYTHON (LEARN) / JAVA (LEARN) / REACT (LEARN) / C AND 
 <html>
   <body>
 <a href="https://www.linkedin.com/in/YusufStar" target="_blank" ><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt=”icon | LinkedIn” width=”21px” ></a>
-    <br>
-    <a href="https://www.instagram.com/ysf00yldz/" target="_blank" ><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" alt=”icon | LinkedIn” width=”21px” ></a>
   </body>
 </html
 
