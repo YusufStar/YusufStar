@@ -14,6 +14,5 @@ Skills: HTML / CSS / JS / PYTHON (LEARN) / JAVA (LEARN) / REACT (LEARN) / C AND 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YusufStar&theme=dark)](https://git.io/streak-stats)
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YusufStar&show_icons=true&theme=radical)
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YusufStar&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/anuraghazra/github-readme-stats">
