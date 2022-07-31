@@ -7,6 +7,7 @@ Skills: HTML / CSS / JS / PYTHON (LEARN) / JAVA (LEARN) / REACT (LEARN) / C AND 
 ![](https://komarev.com/ghpvc/?username=YusufStar)
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=YusufStar&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YusufStar&theme=dark)](https://git.io/streak-stats)
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YusufStar&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YusufStar&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/anuraghazra/github-readme-stats">
