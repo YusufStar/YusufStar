@@ -5,7 +5,8 @@ I was born on May 12, 2006 in Turkey. I decided to become a developer at the age
 Skills: HTML / CSS / JS / PYTHON (LEARN) / JAVA (LEARN) / REACT (LEARN) / C AND C++ (LEARN)
 <html>
   <body>
-<a href="https://www.linkedin.com/in/YusufStar" target="_blank"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt=”icon | LinkedIn” width=”21px”></a>
+<a href="https://www.linkedin.com/in/YusufStar" target="_blank" ><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt=”icon | LinkedIn” width=”21px” ></a>
+    <a href="https://www.instagram.com/ysf00yldz/" target="_blank" ><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" alt=”icon | LinkedIn” width=”21px” ></a>
   </body>
 </html
 
