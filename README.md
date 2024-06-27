@@ -2,7 +2,7 @@
 
 <h4 align="center" >Skills: HTML / CSS / JS / React / Node / Next / MangoDB / Python / Styled Component / Material.ui / Api's / Express / Django / Sass / Redux / jQuary</h2>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YusufStar)](https://github.com/YusufStar)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YusufStar)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 <h2 align="center">My Tech Stack</h2>
@@ -86,7 +86,7 @@
 ### 
 
 <div align="center">
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=95an2xza3sk4kflln8fm0dic0&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/YusufStar)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=95an2xza3sk4kflln8fm0dic0&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 </div>
 
 <br/>  
