@@ -1,4 +1,5 @@
-<h2 align="center">Hi 👋! My name is Yusuf and I'm a Full-Stack Developer</h2>
+<div align="center">
+  <h2 align="center">Hi 👋! My name is Yusuf and I'm a Full-Stack Developer</h2>
 
 <h4 align="center" >Skills: HTML / CSS / JS / React / Node / Next / MangoDB / Python / Styled Component / Material.ui / Api's / Express / Django / Sass / Redux / jQuary</h2>
 
@@ -75,25 +76,15 @@
 ###
 <br>
 
-<h2 align="center">Achievements</h2>
-
-###
-
-###
-
-<h2 align="center">Code Along Music</h2>
-
-### 
-
 <div align="center">
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=95an2xza3sk4kflln8fm0dic0&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 </div>
 
 <br/>  
 
-<div align="center">
+
 <img src="https://komarev.com/ghpvc/?username=YusufStar&&style=flat-square" align="center" />
-</div>  
+
   
 
 <br/>
@@ -107,3 +98,4 @@
                     align="center"
                 />
             </a></div>
+</div>
