@@ -5,6 +5,8 @@
 
 <br/>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yusufstar&bg_color=0d1103&color=bdb3bc&line=3b3e91&point=3f3b3b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <br>
 <h2 align="center">My Tech Stack</h2>
 
@@ -71,6 +73,14 @@
   <a href="mailto:yyilidz518@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
+</div>
+
+<h2 align="center">Achievements</h2>
+
+###
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=yusufStar&theme=onedark"/>
 </div>
 
 
